@@ -12,7 +12,7 @@ console.log(name);
 
 const text = 'Ciao';
 const number = 8;
-const boolean = 'true';
+const boolean = true;
 
 console.log(typeof 'Ciao');
 console.log(typeof 8);
